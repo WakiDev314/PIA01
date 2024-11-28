@@ -1,7 +1,6 @@
-# PIA01
-## IABD_PIA01
+# IABD_PIA01
 ## Programación de Inteligencia Artifical (24-25)
-![Programación de Inteligencia Artificial](./PIA%20UD01%20Portada.PNG "Introducción a la programación de IA") 
+![Programación de Inteligencia Artificial](./img01.jpg "Introducción a la programación de Inteligencia Artificial") 
 ### Tarea 1. Apartado 1
 #### La tarea consta de:
 * La creación de una cuenta Github
